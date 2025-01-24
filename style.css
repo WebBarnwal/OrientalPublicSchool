@@ -1014,3 +1014,14 @@ ul{
     height: 200px;
     width: 200px;
 }
+
+.opsCopyright {
+    padding: 10px 30px;
+   background-color: grey;
+   color: #ddd;
+   text-align: right;
+   span {
+    color: #fff;
+    font-weight: bold;
+   }
+}
